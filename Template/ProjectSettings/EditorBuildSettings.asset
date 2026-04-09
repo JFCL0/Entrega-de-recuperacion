@@ -4,7 +4,13 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/cosinas.unity
+    guid: 6070ad7c86cb38342a59ea6bbb791045
+  - enabled: 1
+    path: Assets/Lobby.unity
+    guid: 2977c40487bb877479a053a9b970268d
   m_configObjects:
     com.unity.addressableassets: {fileID: 11400000, guid: 82e21da6370dc54438ef026e981b7a3b,
       type: 2}
