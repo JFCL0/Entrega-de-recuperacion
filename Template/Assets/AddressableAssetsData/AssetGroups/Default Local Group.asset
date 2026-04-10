@@ -16,7 +16,12 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: 847b2d1c7a6316d4cad34c8be52db705
-  m_SerializeEntries: []
+  m_SerializeEntries:
+  - m_GUID: 5153feea343f1d240ace2d401fd55007
+    m_Address: Assets/Examples/Space_HyperJump_VisualScripting/Art/Materials/Wall.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 0dec0c307d562684a9962702a2153f28, type: 2}
   m_SchemaSet:
